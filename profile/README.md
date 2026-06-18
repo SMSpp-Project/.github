@@ -10,7 +10,11 @@ algorithms such as decomposition approaches and structured Interior-Point method
 > ⚠️ These repositories are a **read-only mirror** of the canonical project,
 > hosted on **GitLab**. Please open issues and merge requests there.
 
-- 📦 **Start here — umbrella project:** [smspp-project](https://github.com/SMSpp-Project/smspp-project) · [on GitLab](https://gitlab.com/smspp/smspp-project)
-- 🧩 **Core library:** [SMSpp](https://github.com/SMSpp-Project/SMSpp)
-- 📖 **API reference:** https://smspp.gitlab.io/smspp-project
-- 📘 **User manual:** https://smspp.gitlab.io/smspp-project/manual/
+## Quick links
+
+- 📦 **Umbrella project (start here):** [smspp-project](https://github.com/SMSpp-Project/smspp-project) · [on GitLab](https://gitlab.com/smspp/smspp-project)
+- 🧩 **Core library:** [SMSpp](https://github.com/SMSpp-Project/SMSpp) · [on GitLab](https://gitlab.com/smspp/smspp)
+- 🛠️ **Installation, troubleshooting & developer guides:** [Project Wiki](https://gitlab.com/smspp/smspp-project/-/wikis/home)
+- 📖 **API reference:** <https://smspp.gitlab.io/smspp-project>
+- 📘 **User manual:** [web](https://smspp.gitlab.io/smspp-project/manual/) · [PDF](https://gitlab.com/smspp/smspp-project/-/raw/develop/manual/SMS++-manual.pdf)
+- 🐞 **Issues & contributions:** [on GitLab](https://gitlab.com/smspp/smspp-project/-/issues)
