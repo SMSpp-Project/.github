@@ -14,7 +14,7 @@ algorithms such as decomposition approaches and structured Interior-Point method
 
 - 📦 **Umbrella project (start here):** [smspp-project](https://github.com/SMSpp-Project/smspp-project) · [on GitLab](https://gitlab.com/smspp/smspp-project)
 - 🧩 **Core library:** [SMSpp](https://github.com/SMSpp-Project/SMSpp) · [on GitLab](https://gitlab.com/smspp/smspp)
-- 🚀 **Getting started (C++):** [tutorial](https://gitlab.com/smspp/smspp-project/-/wikis/Getting-started-with-SMS++)
+- 🚀 **Getting started (C++):** [tutorial](https://gitlab.com/smspp/smspp-project/-/wikis/Getting-Started-with-SMS++)
 - 🐍 **Use it from Python:** [pySMSpp & pypsa2smspp](https://gitlab.com/smspp/smspp-project/-/wikis/Using-SMS++-from-Python)
 - 🛠️ **Install, configure, troubleshoot & develop:** [Project Wiki](https://gitlab.com/smspp/smspp-project/-/wikis/home)
 - 📖 **API reference:** <https://smspp.gitlab.io/smspp-project>
